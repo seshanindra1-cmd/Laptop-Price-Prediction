@@ -23,7 +23,7 @@ The aim of this project is to build a model that can accurately predict the pric
 
 3. **Feature Engineering**
    - Encoded categorical variables (brand, processor, GPU).
-   - Applied transformations (log-scale for skewed features like storage).
+   - Applied transformations (Standard scale).
 
 4. **Modeling**
    - Trained and compared regression models:
